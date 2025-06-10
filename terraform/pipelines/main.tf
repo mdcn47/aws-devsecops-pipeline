@@ -4,7 +4,7 @@ resource "random_id" "id" {
 }
 
 resource "aws_codestarconnections_connection" "default" {
-  name          = "dsb-github-connection-${random_id.id.hex}"
+  name          = "github-connection-${random_id.id.hex}"
   provider_type = "GitHub"
 }
 

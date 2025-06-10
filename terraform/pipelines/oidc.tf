@@ -23,7 +23,7 @@ resource "aws_iam_role" "terraform_cloud" {
             "app.terraform.io:aud" = "aws.workload.identity"
           },
           StringLike = {
-            "app.terraform.io:sub" = "organization:DSB:workspace:dsb-aws-devsecops-pipelines:run_phase:*"
+            "app.terraform.io:sub" = "organization:DSB:workspace:aws-devsecops-pipelines:run_phase:*"
           }
         }
       }

@@ -7,7 +7,7 @@ terraform {
     organization = "DSB"
 
     workspaces {
-      name = "dsb-aws-devsecops-eks-cluster"
+      name = "aws-devsecops-eks-cluster"
     }
   }
 }

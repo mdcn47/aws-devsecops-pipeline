@@ -36,7 +36,7 @@ This will create:
 7. Enter the following details:
    - Role ARN: The ARN of the role created in step 1 (output will be shown after terraform apply)
    - Session Duration: 3600 (or your preferred duration)
-   - Workspace: dsb-aws-devsecops-pipelines
+   - Workspace: aws-devsecops-pipelines
 
 ### 3. Update Workspace Variables
 

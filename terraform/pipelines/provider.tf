@@ -9,7 +9,7 @@ terraform {
     organization = "DSB"
 
     workspaces {
-      name = "dsb-aws-devsecops-pipelines"
+      name = "aws-devsecops-pipelines"
     }
   }
 
