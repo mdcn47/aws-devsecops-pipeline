@@ -21,6 +21,7 @@ terraform apply
 ```
 
 This will create:
+
 - An OIDC provider for Terraform Cloud
 - An IAM role that can be assumed by Terraform Cloud
 - Required policy attachments

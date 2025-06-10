@@ -7,7 +7,7 @@ variable "resource_prefix" {
 variable "eks_cluster_name" {
   type        = string
   description = "Name of the EKS Cluster"
-  default     = "devsecops-cluster"
+  default     = "dsb-devsecops-cluster"
 }
 
 variable "region" {
