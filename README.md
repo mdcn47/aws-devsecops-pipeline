@@ -1,12 +1,12 @@
 # AWS DevSecOps Pipeline - Terraform
 
-![License](https://img.shields.io/github/license/The-DevSec-Blueprint/aws-devsecops-pipeline?logo=license)
-![Terraform Cloud](https://img.shields.io/badge/Terraform-Registry-purple?logo=terraform)
-![GitHub Issues](https://img.shields.io/github/issues/The-DevSec-Blueprint/aws-devsecops-pipeline?logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/The-DevSec-Blueprint/aws-devsecops-pipeline?logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/The-DevSec-Blueprint/aws-devsecops-pipeline?logo=github)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/The-DevSec-Blueprint/aws-devsecops-pipeline?logo=github)
-![CI Status](https://github.com/The-DevSec-Blueprint/aws-devsecops-pipeline/actions/workflows/main.yml/badge.svg)
+![License](https://img.shields.io/github/license/devsecblueprint/aws-devsecops-pipeline?logo=license&style=for-the-badge)
+![Terraform Cloud](https://img.shields.io/badge/Terraform-Registry-purple?logo=terraform&style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/devsecblueprint/aws-devsecops-pipeline?logo=github&style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/devsecblueprint/aws-devsecops-pipeline?logo=github&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/devsecblueprint/aws-devsecops-pipeline?logo=github&style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/devsecblueprint/aws-devsecops-pipeline?logo=github&style=for-the-badge)
+![CI Status](https://img.shields.io/github/actions/workflow/status/devsecblueprint/aws-devsecops-pipeline/main.yml?style=for-the-badge&logo=github)
 
 ## Overview
 
