@@ -6,7 +6,7 @@ provider "random" {}
 
 terraform {
   cloud {
-    organization = "DSB"
+    organization = "MDCN"
 
     workspaces {
       name = "aws-devsecops-pipelines"

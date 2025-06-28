@@ -1,13 +1,13 @@
 variable "resource_prefix" {
   type        = string
   description = "Prefix for AWS Resources"
-  default     = "dsb"
+  default     = "mdcn"
 }
 
 variable "eks_cluster_name" {
   type        = string
   description = "Name of the EKS Cluster"
-  default     = "dsb-devsecops-cluster"
+  default     = "mdcn-devsecops-cluster"
 }
 
 variable "region" {
