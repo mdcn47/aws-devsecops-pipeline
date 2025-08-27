@@ -27,8 +27,8 @@ module "cluster_auth" {
   }]
 
   users = [{
-    userarn  = "arn:aws:iam::${data.aws_caller_identity.current.account_id}:user/damien"
-    username = "damien"
+    userarn  = "arn:aws:iam::${data.aws_caller_identity.current.account_id}:user/mdcn47"
+    username = "mdcn47"
     groups   = ["system:masters"]
   }]
 }
