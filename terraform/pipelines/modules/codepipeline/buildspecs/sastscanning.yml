@@ -8,7 +8,7 @@ phases:
     commands:
       - echo "Installing Snyk CLI..."
       - npm install -g snyk
-      - snyk auth ${SNYK_TOKEN}  # Authenticate using the Snyk token
+      - snyk auth $SNYK_TOKEN  # Authenticate using the Snyk token
   pre_build:
     commands:
       - echo "Installing dependencies..."
